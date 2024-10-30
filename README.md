@@ -1,5 +1,5 @@
-# Olá, eu sou [Thiago José]! 👋
-Sou um desenvolvedor apaixonado por [Desenvolvimento Full-Stack].
+# Olá, eu sou Thiago José! 👋
+Sou um desenvolvedor apaixonado por Desenvolvimento Full-Stack.
 
 ## 🛠 Tecnologias
 - Linguagens: PHP, Python, Javascript
