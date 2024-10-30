@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou [Thiago José]! 👋
+Sou um desenvolvedor apaixonado por [Desenvolvimento Full-Stack].
 
-<!--
-**thigodev/thigodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tecnologias
+- Linguagens: PHP, Python, Javascript
 
-Here are some ideas to get you started:
+## 🌟 Projetos em Destaque
+- [Gamer Profile](https://github.com/thigodev/nlw-esports-explorer)
+- [VittaClinic](https://github.com/thigodev/VittaClinic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/thiago-jose-33b2aa310/)
+
