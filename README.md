@@ -1,8 +1,8 @@
 # Olá, eu sou Thiago José! 👋
 Sou um desenvolvedor apaixonado por Desenvolvimento Full-Stack.
 
-## 🛠 Tecnologias
-- Linguagens: PHP, Python, Javascript
+## 🛠 Áreas de Estudo e Práticas
+PHP | Python | Javascript | HTML | CSS | MySQL | SQL
 
 ## 🌟 Projetos em Destaque
 - [Gamer Profile](https://github.com/thigodev/nlw-esports-explorer)
