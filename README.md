@@ -1,5 +1,4 @@
 # Olá, eu sou Thiago José! 👋
-Sou um desenvolvedor apaixonado por Desenvolvimento Full-Stack.
 
 ## 🛠 Áreas de Estudo e Práticas
 PHP | Python | Javascript | HTML | CSS | MySQL | SQL
